@@ -6,6 +6,8 @@ fitur trx dengan command trx produk.tujuan contoh : trx t10.089567890
 
 yg perlu di persiapkan
 
+-upload sql
+
 -setting database
 
 -edit respon.php ganti bagian ip dengan ip server otomax
@@ -17,3 +19,6 @@ yg perlu di persiapkan
 -edit whitelist.php tambahkan ip server otomax
 
 silahkan di kembangkan lagi
+
+ -- screenshot hanya pemanis :
+https://prnt.sc/cXDVJQoq1O37
